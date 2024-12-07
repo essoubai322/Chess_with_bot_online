@@ -2,7 +2,7 @@
 # Chess Now 🎮♟️
 
 ### ⭐ Star the Repository if you enjoy the project!
-**PREVIEW SITE** : https://blue-lorraine-16.tiiny.site/
+**PREVIEW SITE** : https://stupidchessbot.tiiny.site/home.html
 ---
 
 ## 📖 Overview
