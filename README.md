@@ -1,4 +1,3 @@
-
 # Chess Now 🎮♟️
 
 ### ⭐ Star the Repository if you enjoy the project!
@@ -6,7 +5,7 @@
 ---
 
 ## 📖 Overview
-**Chess Now** is a web-based chess application that allows two players to enjoy a game of chess interactively in their browser. Designed with simplicity and style in mind, the game features a visually appealing chessboard and basic chess functionalities such as turn tracking, movement validation, and checkmate detection.
+**Chess Now** is a web-based chess application that allows two players to enjoy a game of chess interactively in their browser. Designed with simplicity and style in mind, the game features a visually[...]
 
 ---
 
@@ -63,4 +62,3 @@
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/essoubai322/Chess_multimedia_local.git
-
