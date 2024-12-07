@@ -43,6 +43,23 @@
 
 ---
 
+# Chess Now 🎮♟️
+**Play Chess Against an AI Bot!**
+
+## 🌟 Features
+- **Interactive Chessboard**: Fully functional chess interface
+- **AI Chess Bot Opponent**: Intelligent computer player
+- **Strategic Move Selection**: Bot prioritizes capturing pieces
+- **Automatic Turn Management**
+- **Checkmate Detection**
+- **Game Reset Functionality**
+
+## 🤖 Bot Intelligence
+- Evaluates piece values during move selection
+- Prioritizes capturing opponent's pieces
+- Fallback to random moves when no captures are possible
+
+---
 ## 🚀 How It Works
 
 1. **Chessboard Initialization**:
@@ -54,11 +71,13 @@
 
 3. **Styling**:
    - The `style.css` file ensures a polished, modern look with animations, transitions, and responsive layouts.
-
----
+4. **Detail**
+    1. Start a game against the Chess Bot
+    2. Make your move as the white player
+    3. The bot automatically responds with its best possible move
+    4. Continue until checkmate or game reset
 
 ## 🔧 Installation
-
-1. Clone or download this repository:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/essoubai322/Chess_multimedia_local.git
+   git clone https://github.com/your-username/Chess_multimedia_local.git
