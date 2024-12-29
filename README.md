@@ -1,7 +1,7 @@
 # Chess Now 🎮♟️
 
 ### ⭐ Star the Repository if you enjoy the project!
-**PREVIEW SITE** : https://stupidchessbot.tiiny.site/home.html
+**PREVIEW SITE** : https://essoubai322.github.io/Chess_with_bot_online/
 ---
 
 ## 📖 Overview
